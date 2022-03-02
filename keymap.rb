@@ -25,7 +25,7 @@ kbd.init_matrix_pins(
     [ [r0,c3], [r1,c3], [r2,c3], [r3,c3], [r4,c3],     nil,     nil, [r6,c3], [r7,c3], [r8,c3], [r9,c3], [r10,c3], ],
     [ [r0,c4], [r1,c4], [r2,c4], [r3,c4], [r4,c4], [r5,c4], [r5,c3], [r6,c4], [r7,c4], [r8,c4], [r9,c4], [r10,c4], ],
   ]
-  )
+)
 
 # default layer should be added at first
 kbd.add_layer :default, %i[
